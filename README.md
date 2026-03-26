@@ -1,28 +1,28 @@
 <!-- SENTIENT AI TERMINAL BOOT SEQUENCE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9D&height=250&section=header&text=ARUN.EXE&fontSize=70&fontAlignY=35&desc=Autonomous%20Systems%20%26%20Intelligent%20Web%20Experiences&descAlignY=55&descSize=20&fontColor=000000&animation=twinkling" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9D&height=300&section=header&text=ARUN.EXE&fontSize=90&fontAlignY=40" width="100%" alt="Header" />
 </div>
-
+<br>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Initializing+subroutines...;Running+AI+Protocols...;Accessing+Mainframe...;Welcome+to+my+Terminal." alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Actively_Coding-00FF9D?style=for-the-badge&logoColor=black&color=black&labelColor=00FF9D"/>
+  <img src="https://img.shields.io/badge/Status-Actively_Coding-00FF9D?style=for-the-badge&logoColor=black&color=black&labelColor=00FF9D" alt="Status Badge"/>
 </div>
 
 ---
 
 ## 💻 Developer Identity
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/arun6184">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arun6184&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF9D&ring_color=00FF9D" height="195px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arun6184&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF9D&cache_seconds=1800" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/arun6184">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun6184&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF9D" height="195px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun6184&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF9D&cache_seconds=1800" alt="Top Languages" />
   </a>
-</div>
+</p>
 
 <br/>
 
