@@ -1,32 +1,41 @@
 <!-- SENTIENT AI TERMINAL BOOT SEQUENCE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=%3E_SYSTEM+ONLINE;%3E_INITIALIZING+ARUN.EXE...;%3E_ACCESS+GRANTED" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9D&height=250&section=header&text=ARUN.EXE&fontSize=70&fontAlignY=35&desc=Autonomous%20Systems%20%26%20Intelligent%20Web%20Experiences&descAlignY=55&descSize=20&fontColor=000000&animation=twinkling" width="100%" alt="Header" />
 </div>
 
 <div align="center">
-  <h3>⚡ Building Autonomous Systems & Intelligent Web Experiences</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Initializing+subroutines...;Running+AI+Protocols...;Accessing+Mainframe...;Welcome+to+my+Terminal." alt="Typing SVG" />
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Status-Actively_Coding-00FF9D?style=for-the-badge&logoColor=black&color=black&labelColor=00FF9D"/>
 </div>
 
 ---
 
-## 💻 Neofetch [System Specs]
+## 💻 Developer Identity
 
-```console
-user@arun6184:~$ neofetch
-[38;5;10m
-        /////////////           [0m[38;5;15muser[0m@[38;5;10marun6184[0m
-      ///////////////////       [0m----------------
-    ///////////////////////     [0m[38;5;10mOS[0m: Human 2.0 (Cyberpunk Edition)
-  ///////////////////////////   [0m[38;5;10mHost[0m: Earth (Coimbatore Node)
- /////////////////////////////  [0m[38;5;10mUptime[0m: 1000+ Commits
-/////////////////////////////// [0m[38;5;10mShell[0m: bash 5.1.4
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ [0m[38;5;10mDE[0m: Web3, AI, NLP, Next.js
- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\  [0m[38;5;10mCPU[0m: Brain (Highly Parallel)
-  \\\\\\\\\\\\\\\\\\\\\\\\\\\   [0m[38;5;10mGPU[0m: Imagination GTX 4090
-    \\\\\\\\\\\\\\\\\\\\\\\     [0m[38;5;10mMemory[0m: Unlimited / Paged to Disk
-      \\\\\\\\\\\\\\\\\\\       [0m
-        \\\\\\\\\\\\\           [0m
+<div align="center">
+  <a href="https://github.com/arun6184">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arun6184&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF9D&ring_color=00FF9D" height="195px" />
+  </a>
+  <a href="https://github.com/arun6184">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun6184&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF9D" height="195px" />
+  </a>
+</div>
+
+<br/>
+
+```json
+{
+  "user": "user@arun6184",
+  "OS": "Human 2.0 (Cyberpunk Edition)",
+  "Host": "Earth (Coimbatore Node)",
+  "Uptime": "1000+ Commits",
+  "Shell": "bash 5.1.4",
+  "DE": "Web3, AI, NLP, Next.js",
+  "CPU": "Brain (Highly Parallel)"
+}
 ```
 
 ---
@@ -40,20 +49,6 @@ user@arun6184:~$ neofetch
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&color=black&labelColor=white"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&color=black&labelColor=8BCCF0"/>
 </div>
-
-<br/>
-
-<!-- WakaTime Code Stats (Requires GitHub Action Setup) -->
-<details>
-  <summary><b>⏱️ Live WakaTime Telemetry</b></summary>
-  <div align="center">
-    <br/>
-    <!-- The actual image will be injected here by the novatorem/waka-readme-stats action once secrets are added -->
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun6184&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF9D" />
-    </a>
-  </div>
-</details>
 
 <!-- Spotify Now Playing (Requires GitHub Action Setup) -->
 <details>
@@ -93,8 +88,6 @@ user@arun6184:~$ neofetch
 *Make a move to trigger a new commit against me.*
 
 [![Issues](https://img.shields.io/badge/Play_Chess_Against_Me-Click_Here-00FF9D?style=for-the-badge&logo=lichess&logoColor=black&color=black&labelColor=00FF9D)](https://github.com/arun6184/arun6184/issues/new?assignees=&labels=chess&template=chess_move.yml&title=Chess+Move)
-
-*(Note: Advanced setup required to link an engine to standard issues. Click to view open issues/moves).*
 
 <div align="center">
   <p><b>🔗 Terminal Output End.</b></p>
